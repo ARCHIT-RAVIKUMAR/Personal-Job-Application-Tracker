@@ -1,0 +1,21 @@
+JOB APPLICATION TRACKER
+=======================
+
+Applications:
+Zoho | Python Developer | Interview | 2026-09-02
+Freshworks | Backend Engineer | Interview | 2026-09-10
+Infosys | Systems Engineer | Rejected | 2026-08-18
+Amazon | SDE Intern | Selected | 2026-08-05
+Razorpay | Software Engineer | Applied | 2026-09-22
+TCS | Data Analyst | Rejected | 2026-08-25
+Google | Junior Developer | Applied | 2026-09-28
+
+Summary:
+Applied: 2
+Interview: 2
+Selected: 1
+Rejected: 2
+
+At Interview stage:
+Zoho - Python Developer
+Freshworks - Backend Engineer

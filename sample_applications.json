@@ -1,0 +1,38 @@
+[
+  {
+    "company": "Zoho",
+    "role": "Python Developer",
+    "status": "Applied",
+    "application_date": "2026-09-02"
+  },
+  {
+    "company": "Freshworks",
+    "role": "Backend Engineer",
+    "status": "Interview",
+    "application_date": "2026-09-10"
+  },
+  {
+    "company": "Infosys",
+    "role": "Systems Engineer",
+    "status": "Rejected",
+    "application_date": "2026-08-18"
+  },
+  {
+    "company": "Amazon",
+    "role": "SDE Intern",
+    "status": "Selected",
+    "application_date": "2026-08-05"
+  },
+  {
+    "company": "Razorpay",
+    "role": "Software Engineer",
+    "status": "Applied",
+    "application_date": "2026-09-22"
+  },
+  {
+    "company": "TCS",
+    "role": "Data Analyst",
+    "status": "Rejected",
+    "application_date": "2026-08-25"
+  }
+]
